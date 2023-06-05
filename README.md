@@ -21,4 +21,12 @@ https://www.cdc.gov/vaccines/hcp/acip-recs/vacc-specific/hpv.html
 * LaMini-Flan-T5-783M
 
 ## Results
-
+The best generated answers for the given questions were using Retrieval Augmented Generation which were as follows:
+* Question:  When did the GARDASIL 9 recommendations change?
+  Answer:  The GARDASIL 9 recommendations changed in February 2015.
+* Question:  What were the past 3 recommendation changes for GARDASIL 9?
+  Answer:  The Acip advisory committee on immunization practices recommended GARDASIL 9 as one of three HPV vaccines that can be used for routine vaccination.
+* Question:  Is GARDASIL 9 recommended for Adults?
+  Answer:  The context does not provide information on whether GARDASIL 9 is recommended for adults.
+* Question:  Does the ACIP recommend one dose GARDASIL 9?
+  Answer:  The ACIP recommends one dose of GARDASIL 9 as one of three HPV vaccines that can be used for routine vaccination.
